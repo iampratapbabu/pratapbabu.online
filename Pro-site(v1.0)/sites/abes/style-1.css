@@ -1,0 +1,99 @@
+body{
+   background:url("items/abes.jpg");
+  background-color: #162447;
+  font-family: 'Exo', sans-serif,fantasy;
+}
+
+.header{
+  font-family: 'Exo', sans-serif,fantasy;
+  text-align: center;
+  font-weight: bold;
+  /* margin-bottom:40px; */
+}
+.header p{
+  position: relative;
+  bottom:15px;
+  left:45px;
+}
+.label{
+  font-weight: bold;
+}
+
+.content{
+
+background-color:#ecfbfc;
+font-family: 'Montserrat', sans-serif;
+line-height:normal;
+
+margin-bottom:10px;
+margin-bottom:10px;
+border:1px solid #fff;
+border-radius: 10px;
+padding:10px;
+box-shadow: 1px 4px 1px #00a8cc;
+
+
+}
+h5{
+  color:#400082;
+  font-weight: bold;
+}
+
+.nav{
+  width:100%;
+justify-content: center;
+background-color:#1f4068;
+
+
+
+}
+.nav-button{
+  margin:5px;
+}
+
+ul{
+  list-style: none;
+}
+
+
+
+.submit-form{
+  background-color: rgba(255,255,255,0.4);
+  margin-left:20px;
+  margin-right:20px;
+  padding:10px;
+
+}
+
+.submit-form h3{
+  text-align: center;
+
+}
+
+.btn-dark{
+  color:red !important;
+  margin-left:40%;
+  margin-bottom:20px;
+
+}
+.published{
+  background-color:white;
+  font-weight: bold;
+  border:1px solid #f9b384;
+  border-radius:10px;
+  color:#007892;
+
+
+  padding:1%;
+  display: inline-block;
+
+
+}
+.footer{
+  font-weight: bold;
+   margin-top:25px;
+   color: #162447;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

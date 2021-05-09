@@ -1,0 +1,38 @@
+body{
+  background-image: url("https://mfiles.alphacoders.com/632/632816.jpg");
+  background-attachment: fixed;
+
+}
+
+.content{
+width:90%;
+height: auto;
+}
+
+.heading{
+  margin-left: 15%;
+  color:#111d5e;
+}
+
+.my-col{
+
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-bottom:15px;
+}
+
+
+p{
+  font-family: 'Sriracha', cursive;
+  font-size: 1rem;
+  font-weight: bold !important;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #fff;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

@@ -1,0 +1,62 @@
+body{
+  background-image: url("https://image.freepik.com/vector-gratis/fondo-abstracto-rojo-granate_181182-133.jpg");
+  background-attachment: fixed;
+
+}
+
+.content{
+width:90%;
+
+
+}
+
+.heading{
+margin-left:10%;
+  color:#111d5e;
+}
+
+.my-col{
+padding:5px 5px 5px 5px;
+border-radius: 5px;
+margin-left:50px;
+margin-bottom:15px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section{
+  margin:15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.icon{
+    color:#e23e57;
+    margin-bottom: 5px;
+}
+
+.section-text{
+color:#e23e57;
+font-family: 'Exo', sans-serif;
+font-weight: bold;
+}
+
+.desc{
+  color:#11999e;
+}
+
+
+p{
+
+  font-size: 1rem;
+  font-weight: bold;
+  color:red;
+}
+
+.footer{
+
+     margin-top:20px;
+     color: red;
+
+      text-align: center;
+    font-family: 'Exo', sans-serif;
+  }

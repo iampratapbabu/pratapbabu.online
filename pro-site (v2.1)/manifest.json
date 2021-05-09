@@ -1,0 +1,52 @@
+{
+  "name" :"PRATAPbabu",
+  "short_name":"PRATAPbabu",
+  "icons":[
+    {
+      "src":"/src/icons/logo48x48.png",
+      "type":"image/png",
+      "sizes":"48x48"
+    },
+    {
+      "src":"/src/icons/logo96x96.png",
+      "type":"image/png",
+      "sizes":"96x96"
+    },
+    {
+      "src":"/src/icons/logo144x144.png",
+      "type":"image/png",
+      "sizes":"144x144"
+    },
+    {
+      "src":"/src/icons/logo192x192.png",
+      "type":"image/png",
+      "sizes":"192x192"
+    },
+    {
+      "src":"/src/icons/logo256x256.png",
+      "type":"image/png",
+      "sizes":"256x256"
+    },
+    {
+      "src":"/src/icons/logo384x384.png",
+      "type":"image/png",
+      "sizes":"384x384"
+    },
+    {
+      "src":"/src/icons/logo512x512.png",
+      "type":"image/png",
+      "sizes":"512x512"
+    }
+
+  ],
+  "start_url":"/index.html",
+  "scope":".",
+  "display":"standalone",
+  "orientation":"portrait_-rimary",
+  "background_color":"#fff",
+  "theme_color":"#e7305b",
+  "description":"A Personal App developed By:pratapbabu",
+  "dir":"ltr",
+  "lang":"en-US"
+
+}

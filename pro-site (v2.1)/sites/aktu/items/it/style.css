@@ -1,0 +1,60 @@
+body{
+  background-image: url("https://papers.co/wallpaper/papers.co-vs21-paint-abstract-background-htc-yellow-blue-pattern-33-iphone6-wallpaper.jpg");
+  background-attachment: fixed;
+  font-family: 'Exo', sans-serif,fantasy;
+  }
+
+h1{
+  text-align: center;
+  font-size:2rem;
+  color: #fff;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h3{
+  padding-left:5px;
+  color:#5c2a9d;
+}
+
+p{
+  font-weight: bold;
+}
+
+h2{
+  text-align:center;
+  color:#00adb5;
+
+}
+
+.outlined{
+font-family: 'Libre Baskerville', serif;
+color:#035aa6;
+font-size:1rem;
+text-align:center;
+}
+
+/* button color  #e8e4e1;  */
+.container{
+  background-color: #fff;
+  margin:5%;
+  border:1px solid #00adb5;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+
+
+
+
+
+.footer{
+
+   margin-top:50px;
+   color: #000;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

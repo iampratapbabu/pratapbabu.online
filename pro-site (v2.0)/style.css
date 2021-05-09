@@ -1,0 +1,108 @@
+body{
+  background-image: linear-gradient(#a6dcef,#9bdeac,#f3e1e1);
+}
+
+h1{
+
+  font-family: 'Sriracha', cursive;
+  font-size:2.5rem;
+  color:#035aa6;
+
+}
+
+span{
+font-family: 'Dancing Script', cursive;
+  color:red;
+}
+
+h3{
+  font-family: 'Libre Baskerville', serif;
+}
+
+p{
+  font-family: 'Exo', sans-serif;
+  font-weight: bold;
+}
+
+.button{
+  background-color:#fff;
+  color:#303960;
+border-radius: 30px;
+height:30px;
+border:1px solid #5fdde5;
+box-shadow: 2px 2px 0px #5fdde5;
+margin-bottom:10px;
+margin-right:5px;
+}
+
+.box{
+  width:90%;
+  height:auto;
+  /* border:1px solid #364f6b; */
+  box-shadow:5px 5px 2px  #888888 ;
+  border-radius:5px;
+  margin-bottom:20px;
+  margin-left:15px;
+  color:#007892;
+
+  padding: 3px;
+
+}
+
+.button-secondary{
+
+border-radius: 40px;
+text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+background: rgb(66, 184, 221);
+}
+
+.sub-button{
+  color:#ff2e63;
+}
+
+.icon{
+  float:left;
+  padding:20px ;
+
+}
+
+.selling{
+  background-color:#fff;
+  color:#f54291;
+
+}
+
+
+.abes{
+  background-color:#fff;
+  color:#0779e4;
+}
+
+.aktu{
+  background-color:#fff;
+  color:#035aa6;
+}
+
+.pratap-babu{
+  background-color:#fff;
+  color:red;
+}
+
+.about{
+  background-color:#fff;
+}
+
+
+.heading{
+  text-align:center;
+  color:;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #52616b;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

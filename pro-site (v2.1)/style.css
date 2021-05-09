@@ -1,0 +1,130 @@
+body{
+
+  background-image: url("https://papers.co/wallpaper/papers.co-vs20-paint-abstract-background-htc-pink-blue-pattern-33-iphone6-wallpaper.jpg");
+  background-attachment: fixed;
+}
+
+h1{
+
+font-family: 'Dancing Script', cursive;
+  font-size:2.5rem;
+  color:yellow;
+  font-weight:bold !important;
+
+}
+
+span{
+font-family: 'Dancing Script', cursive;
+  color:blue;
+}
+
+h3{
+  font-family: 'Exo', sans-serif;
+  font-weight: bold;
+
+}
+
+p{
+  font-family: 'Exo', sans-serif;
+
+}
+
+.button{
+  background-color:#fff;
+  color:#303960;
+border-radius: 30px;
+height:30px;
+border:1px solid #5fdde5;
+box-shadow: 2px 2px 0px #5fdde5;
+margin-bottom:10px;
+margin-right:5px;
+}
+
+.box{
+  width:90%;
+  height:auto;
+  /* border:1px solid #364f6b; */
+  /* box-shadow:8px 8px 8px 8px  #888888 ; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius:5px;
+  margin-bottom:20px;
+  margin-left:15px;
+  color:#007892;
+
+  padding: 3px;
+
+}
+
+/* .slide{
+  animation:slideMe .2s ease-in;
+}
+
+@@keyframes slideMe {
+  0%{
+    transform: skewX(53deg) translateY(-500px);
+  }
+
+  100%{
+    transform: skew(0deg);
+  } */
+
+}
+
+.button-secondary{
+
+border-radius: 40px;
+text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+background: rgb(66, 184, 221);
+}
+
+.sub-button{
+  color:#ff2e63;
+}
+
+.icon{
+  float:left;
+  padding:20px ;
+
+}
+
+.selling{
+  background-color:#fff;
+  color:#f54291;
+
+}
+
+
+.abes{
+  background-color:#fff;
+  color:#0779e4;
+}
+
+.aktu{
+  background-color:#fff;
+  color:#79d70f;
+}
+
+.pratap-babu{
+  background-color:#fff;
+  color:red;
+}
+
+.about{
+  background-color:#fff;
+}
+
+
+.heading{
+  text-align:center;
+  color:;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #eaeaea;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+  font-weight: bold;
+}

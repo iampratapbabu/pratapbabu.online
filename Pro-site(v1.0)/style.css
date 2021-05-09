@@ -1,0 +1,92 @@
+body{
+  background-color:#a1eafb;
+}
+
+h1{
+
+  font-family:'Libre Baskerville', serif;
+  font-size:2.5rem;
+  color:#00005c;
+
+}
+
+span{
+font-family: 'Exo', sans-serif,cursive;
+  color:#000;
+}
+
+h3{
+  font-family: 'Libre Baskerville', serif;
+}
+
+p{
+  font-family: 'Exo', sans-serif;
+  font-weight: bold;
+}
+
+.button{
+  background-color:#fff;
+  color:#303960;
+border-radius: 30px;
+height:30px;
+border:1px solid #5fdde5;
+box-shadow: 2px 2px 0px #5fdde5;
+}
+
+.box{
+  width:90%;
+  height:auto;
+  border:2px solid #364f6b;
+  /* box-shadow:5px 2px 2px  #000 ; */
+  border-radius:15px;
+  margin-bottom:20px;
+  margin-left:15px;
+  color:#007892;
+
+  padding: 3px;
+
+}
+
+.button-secondary{
+
+border-radius: 40px;
+text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+background: rgb(66, 184, 221);
+}
+
+
+.icon{
+  float:left;
+  padding:20px ;
+
+}
+
+.abes{
+  background-color:#fff;
+}
+
+.aktu{
+  background-color:#fff;
+}
+
+.digital-dost{
+  background-color:#fff;
+}
+
+.about{
+  background-color:#fff;
+}
+
+.heading{
+  text-align:center;
+  color:;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #52616b;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

@@ -1,0 +1,73 @@
+body{
+  background-color:#a1eafb;
+}
+
+h1{
+
+  font-family: 'Exo', sans-serif,fantasy;
+  font-size:2.5rem;
+  color:#303960;
+
+}
+
+span{
+font-family: 'Exo', sans-serif,cursive;
+  color:#000;
+}
+
+h3{
+  font-family: 'Libre Baskerville', serif;
+}
+
+p{
+  font-family: 'Exo', sans-serif;
+}
+
+.box{
+  width:90%;
+  height:auto;
+  border:2px solid #364f6b;
+  /* box-shadow:5px 2px 2px  #000 ; */
+  border-radius:15px;
+  margin-bottom:20px;
+  margin-left:15px;
+
+  padding: 3px;
+
+}
+
+.icon{
+  float:left;
+  padding:20px ;
+
+}
+
+.abes{
+  background-color:#fff;
+}
+
+.aktu{
+  background-color:#fff;
+}
+
+.digital-dost{
+  background-color:#fff;
+}
+
+.about{
+  background-color:#fff;
+}
+
+.heading{
+  text-align:center;
+  color:;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #52616b;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}

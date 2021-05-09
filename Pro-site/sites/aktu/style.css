@@ -1,0 +1,26 @@
+body{
+  background-color: #a1eafb;
+  font-size: 1.5rem;
+  font-family: 'Exo', sans-serif,fantasy;
+}
+
+.working{
+width:200px;
+margin-top:25%;
+
+  border: 2px solid black;
+  border-radius: 25px;
+  justify-content: center;
+  width: auto;
+  background-color: #fff;
+  text-align: center;
+}
+
+.footer{
+
+   margin-top:50px;
+   color: #52616b;
+
+    text-align: center;
+  font-family: 'Exo', sans-serif;
+}
